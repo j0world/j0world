@@ -1,8 +1,5 @@
 ## ようこそ
 
-<!--
-**j0world/j0world** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a Software Engineering student in Germany.
 
 - Currently learning ML
@@ -14,3 +11,6 @@ I'm a Software Engineering student in Germany.
 
 ## get in touch
 - **[LinkedIn]**(https://www.linkedin.com/in/jonas-matenia-383612252/)
+
+<!--
+**j0world/j0world** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
